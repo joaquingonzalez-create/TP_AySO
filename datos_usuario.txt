@@ -1,2 +1,3 @@
 “Usuario=vagrant”
 model name	: AMD Ryzen 5 PRO 2400G with Radeon Vega Graphics
+model name	: AMD Ryzen 5 PRO 2400G with Radeon Vega Graphics
